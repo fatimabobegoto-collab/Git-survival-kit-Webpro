@@ -1,2 +1,2 @@
 # Gym-Advanced-Git-Exercise-Solutions
-Hello it's Aziel
+Hello it is  Aziel
